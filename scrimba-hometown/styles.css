@@ -1,0 +1,28 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+
+.hero {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Monctonsunset9.jpg/1200px-Monctonsunset9.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+}
